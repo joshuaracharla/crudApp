@@ -13,8 +13,7 @@
 <body>
     <div class="container container-default">
   
-	   <h1>Student List first edit
-	   </h1>  
+	   <h1>Student List first edit</h1>  
 	    <table class="table table-striped">
 	        <thead>
 	            <tr>
